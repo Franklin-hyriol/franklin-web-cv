@@ -39,6 +39,10 @@ export default SideBar;
 const Container = styled.div`
     flex-basis: 30%;
     background-color: ${props => props.theme.navBgColor};
+
+    @media screen and (max-width: 1150px){
+        min-width: 350px;
+    }
 `;
 
 const Wrapper = styled.div`

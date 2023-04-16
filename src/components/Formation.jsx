@@ -55,5 +55,15 @@ const Container = styled.div`
         div:last-child {
             flex-basis: 65%;
         }
+
+        @media screen and (max-width: 850px){
+            flex-direction: column;
+            justify-content: space-around;
+
+            .date {
+                margin-top: 20px;
+                margin-bottom: 5px;
+            }
+        }
     }
 `;

@@ -202,4 +202,15 @@ const Item = styled.div`
         }
 
     }
+
+    @media screen and (max-width: 850px){
+        flex-direction: column;
+        gap: 15px;
+        justify-content: space-around;
+
+        .project{
+            width: 90%;
+            margin: auto;
+        }
+    }
 `;
