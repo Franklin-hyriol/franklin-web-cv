@@ -18,8 +18,8 @@ function Project() {
                                 C'est un simple site de vente de chaussures faite en HTML CSS.</p>
                         </div>
                         <div className="btn">
-                            <a href="#">Github</a>
-                            <a href="#">Demo</a>
+                            <a href="https://franklin-hyriol.github.io/itsaka/" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://github.com/Franklin-hyriol/itsaka" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
 
@@ -34,8 +34,8 @@ function Project() {
                             <p>On m'a demandé de faire mieux que <a href="http://www.mesupres.edu.mg/" target="_blank" rel="noopener noreferrer">http://www.mesupres.edu.mg</a> et c'est ce que j'ai fait.</p>
                         </div>
                         <div className="btn">
-                            <a href="#">Github</a>
-                            <a href="#">Demo</a>
+                            <a href="https://hei-franklin.github.io/Mesupres-hei/" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://github.com/HEI-Franklin/Mesupres-hei" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
                 </Item>
@@ -51,8 +51,8 @@ function Project() {
                             <p>Juste un clone d'Unsplash. Le but était de reproduire le scroll infini qu'on en arrive en bas de la page.</p>
                         </div>
                         <div className="btn">
-                            <a href="#">Github</a>
-                            <a href="#">Demo</a>
+                            <a href="https://github.com/Franklin-hyriol/unsplashClone" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://unsplash-react-clone.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
 
@@ -66,8 +66,8 @@ function Project() {
                             <p>Il s'agit d'un simple clone du site Twitch Streaming à l'aide de l'API publique Twitch.</p>
                         </div>
                         <div className="btn">
-                            <a href="#">Github</a>
-                            <a href="#">Demo</a>
+                            <a href="https://github.com/Franklin-hyriol/TwitchCloneReact" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://twitchclonereact.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
                 </Item>
@@ -83,8 +83,8 @@ function Project() {
                             <p>Les customs hook en React était en vogue et je voulais l'essayer avec un projet amusant.</p>
                         </div>
                         <div className="btn">
-                            <a href="#">Github</a>
-                            <a href="#">Demo</a>
+                            <a href="https://github.com/Franklin-hyriol/react-tetris" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://react-game-tetris.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
 
@@ -99,8 +99,8 @@ function Project() {
                             <p>Il s'agit de mon portfolio que j'avais prévu de vous présenter lors de l'entretien. Malheureusement, j'ai eu tellement d'ambition que je n'ai pas eu le temps de le terminer.</p>
                         </div>
                         <div className="btn">
-                            <a href="#">Github</a>
-                            <a href="#">Demo</a>
+                            <a href="https://github.com/Franklin-hyriol/FranklinHyriol" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://franklinhyriol.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
                 </Item>
