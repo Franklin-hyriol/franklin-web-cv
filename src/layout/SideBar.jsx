@@ -7,6 +7,10 @@ import Skills from '../components/Skills';
 
 function SideBar({ curentTheme, toggleTheme }) {
 
+    const handleDownload = () => {
+        window.open('./files/Franklin Hyriol - CV.pdf', '_blank');
+    }
+
     return (
         <Container>
             <Wrapper>
@@ -15,7 +19,7 @@ function SideBar({ curentTheme, toggleTheme }) {
                         {curentTheme === 'light' ? <BsMoonStarsFill className='moon' /> : <BsFillSunFill className='sun' />}
                     </div>
 
-                    <div onClick="window.print()">
+                    <div onClick={() => handleDownload()} >
                         <BsDownload /> PDF
                     </div>
                 </div>
