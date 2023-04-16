@@ -1,3 +1,3 @@
 # franklin-web-cv
 
-[Demo]("https://franklin-web-cv.netlify.app/"){:target="_blank"}
+<a href="https://franklin-web-cv.netlify.app/" target="_blank">Hello, world!</a>
