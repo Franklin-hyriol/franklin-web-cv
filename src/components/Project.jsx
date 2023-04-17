@@ -18,8 +18,8 @@ function Project() {
                                 C'est un simple site de vente de chaussures faite en HTML CSS.</p>
                         </div>
                         <div className="btn">
-                            <a href="https://franklin-hyriol.github.io/itsaka/" target="_blank" rel="noopener noreferrer">Github</a>
-                            <a href="https://github.com/Franklin-hyriol/itsaka" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <a href="https://github.com/Franklin-hyriol/itsaka" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://franklin-hyriol.github.io/itsaka/" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
 
@@ -34,8 +34,8 @@ function Project() {
                             <p>On m'a demandé de faire mieux que <a href="http://www.mesupres.edu.mg/" target="_blank" rel="noopener noreferrer">http://www.mesupres.edu.mg</a> et c'est ce que j'ai fait.</p>
                         </div>
                         <div className="btn">
-                            <a href="https://hei-franklin.github.io/Mesupres-hei/" target="_blank" rel="noopener noreferrer">Github</a>
-                            <a href="https://github.com/HEI-Franklin/Mesupres-hei" target="_blank" rel="noopener noreferrer">Demo</a>
+                            <a href="https://github.com/HEI-Franklin/Mesupres-hei" target="_blank" rel="noopener noreferrer">Github</a>
+                            <a href="https://hei-franklin.github.io/Mesupres-hei/" target="_blank" rel="noopener noreferrer">Demo</a>
                         </div>
                     </div>
                 </Item>
